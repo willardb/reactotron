@@ -35,8 +35,9 @@ public class reactotronPanel extends JPanel implements MouseListener, MouseMotio
 		
 		widgets.add(new circleWidget(100,100,50,manager,pathBase + "looptest.wav"));
 		widgets.add(new circleWidget(200,200,25,manager,pathBase+"looperman_265632_48122_MONSTERBOUNCE2.wav"));
-		widgets.add(new circleWidget(500,37,37,manager,pathBase+"looperman_158495_48058_octane6_137bpm.wav"));
-		widgets.add(new circleWidget(550,37,10,manager,pathBase+"looperman_158495_48058_octane6_137bpm.wav"));
+		widgets.add(new circleWidget(500,37,37,manager,pathBase+"looperman_379853_48137_.wav"));
+		widgets.add(new circleWidget(550,37,10,manager,pathBase+"looperman_562523_47457_.wav"));
+		widgets.add(new circleWidget(200,400,10,manager,pathBase+"looperman_379853_48136_.wav"));
 		widgets.add(new circleWidget(200,300,10,manager,pathBase+"looperman_158495_48058_octane6_137bpm.wav"));
 
 		
